@@ -9,4 +9,7 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 - **heights**: the height of each chiplet, separated by ",".
 - **powers**: the power of each chiplet, separated by ",".
 - **connections**: the connection matrix of chiplets. The i-th row and j-th column in the matrix is the bandwidth from chiplet i to chiplet j.
+- **u**: the graph node 'i'.
+- **v**: the graph node 'j'.
+- **e**: the connection wires between node 'i' and 'j'.
 
