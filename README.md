@@ -10,4 +10,3 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 - **powers**: the power of each chiplet, separated by ",".
 - **connections**: the connection matrix of chiplets. The i-th row and j-th column in the matrix is the bandwidth from chiplet i to chiplet j.
 
-We place eight examples under configs/ directory, which we used in our paper. It contains two kinds of 2.5D system. 
