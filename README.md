@@ -20,6 +20,7 @@
 | Entropy Coefficient | 0.01|
 | Value Coefficient   | 0.5 |
 | Discount(γ)         | 0.99|
+</center>
 
 *The length of each episode depends on the number of chiplets.
 
