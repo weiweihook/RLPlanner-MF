@@ -40,3 +40,7 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 - **v**: the graph node 'j'.
 - **e**: the connection wires between node 'i' and 'j'.
 
+## References
+[1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.
+
+[2]“Mcnc benchmark.” [Online]. Available: https://s2.smu.edu/∼manikas/Benchmarks/MCNC Benchmark Netlists.html.
