@@ -41,7 +41,7 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 - **e**: the connection wires between node 'i' and 'j'.
 
 ## Thermal Evaluations
-<img src="https://github.com/weiweihook/RLPlanner-MF/blob/main/comparison.png" width="400"/>
+<img src="https://github.com/weiweihook/RLPlanner-MF/blob/main/comparison.png" width="300"/>
 Fig.1
 <img src="https://github.com/weiweihook/RLPlanner-MF/blob/main/thermal_map.png" width="400"/>
 Fig.2
