@@ -40,7 +40,7 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 - **v**: the graph node 'j'.
 - **e**: the connection wires between node 'i' and 'j'.
 
-## Experiments
+## Supplementary Experiment
 ### Thermal Evaluations
 <img src="https://github.com/weiweihook/RLPlanner-MF/blob/main/comparison.png" width="300"/>
 Fig.1 Temperature predictions vs ground truths. The grey line represents the ground truths obtained from HotSpot, while the purple dots denote the temperature predictions from FastTM.  
